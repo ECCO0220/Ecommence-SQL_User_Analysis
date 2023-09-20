@@ -28,7 +28,7 @@ Task 1: IDENTIFYING REPEAT VISITORS:
 
 Task 2:Deeper Dive on Repeat:
 
- understand the minimum, maximum, and average time between the first and econd session for customers who do come back
+ understand the minimum, maximum, and average time between the first and second session for customers who do come back
  
  
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/74843963/199109516-3134f8f0-e080-4fd5-a369-5587a05b8cf6.png">
