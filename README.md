@@ -18,6 +18,7 @@ https://mavenanalytics-my.sharepoint.com/personal/aaron_mavenanalytics_onmicroso
 
 
 3)Tasks:
+
 Task 1: IDENTIFYING REPEAT VISITORS:
 
  how many website visitors come back for another session
